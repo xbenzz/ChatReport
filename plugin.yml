@@ -1,0 +1,7 @@
+name: ChatReport
+author: xBenz
+version: 3.0
+main: me.mreport.ChatR
+commands:
+  chatreport:
+  reports:

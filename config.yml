@@ -1,0 +1,24 @@
+############################################################
+# +------------------------------------------------------+ #
+# |                  Information                         | #
+# +------------------------------------------------------+ #
+############################################################
+# All Updates are posted on Spigot
+# If you have any problems or suggestions, PM me on spigot: Arnie
+
+# MySQL Information
+MySQL-Host: '127.0.0.1'
+MySQL-User: 'root'
+MySQL-Database: 'table'
+MySQL-Password: 'password'
+
+# Link for web server for chat logs 
+# Replace localhost with your domain
+ChatReport-Link: 'http://yourdomainhere.com/chatreport/?report='
+
+# Link for rules when a chatreport gets denied
+Rules-Link: 'http://ruleslink.com'
+
+# Clear the database of player chat logs that were not used upon server restart/shutdown
+# HIGHLY RECOMMEND SET TO TRUE
+Reset-Logs: true
